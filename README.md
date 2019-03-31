@@ -19,7 +19,7 @@
 	动作模块 doModel.py 大概就有转发热门微博/评论/点赞等小功能，本来还想做一个自动爬网络段子内容然后发布的功能，但是由于可抗力因素就鸽了。
 	
 ## 示例
-![omage]()	
+![omage](https://github.com/Gitqiubai/Sina/raw/master/sina.jpg)	
 	
 
 	
